@@ -1,6 +1,6 @@
 (module TantalC_SizeA_EIA-3216_Reflow (layer F.Cu) (tedit 555EF642)
-  (descr "Tantal Cap. , Size A, EIA-3216, Reflow,")
-  (tags "Tantal Cap. , Size A, EIA-3216, reflow,")
+  (descr "Tantal Cap. , Size A, EIA-3216, Reflow")
+  (tags "Tantal Capacitor Size-A EIA-3216 reflow")
   (attr smd)
   (fp_text reference REF** (at 0 -1.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

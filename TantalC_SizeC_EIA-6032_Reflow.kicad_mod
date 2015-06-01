@@ -1,6 +1,6 @@
 (module TantalC_SizeC_EIA-6032_Reflow (layer F.Cu) (tedit 555EF86D)
-  (descr "Tantal Cap. , Size C, EIA-6032, Reflow,")
-  (tags "Tantal Cap. , Size C, EIA-6032, Reflow,")
+  (descr "Tantal Cap. , Size C, EIA-6032, Reflow")
+  (tags "Tantal Capacitor Size-C EIA-6032 Reflow")
   (attr smd)
   (fp_text reference REF** (at -0.1 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

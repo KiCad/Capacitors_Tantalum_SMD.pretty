@@ -1,6 +1,6 @@
 (module TantalC_SizeD_EIA-7343_Reflow (layer F.Cu) (tedit 555EF99E)
-  (descr "Tantal Cap. , Size D, EIA-7343, Reflow,")
-  (tags "Tantal Cap. , Size D, EIA-7343, Reflow,")
+  (descr "Tantal Cap. , Size D, EIA-7343, Reflow")
+  (tags "Tantal Capacitor Size-D EIA-7343 Reflow")
   (attr smd)
   (fp_text reference REF** (at -0.20066 -3.29946) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
