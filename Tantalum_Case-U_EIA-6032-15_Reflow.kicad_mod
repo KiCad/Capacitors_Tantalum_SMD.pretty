@@ -1,5 +1,5 @@
-(module Tantalum_Case-U_EIA-6032-15_Reflow (layer F.Cu) (tedit 57AC756E)
-  (descr "Tantalum calacitor, Case U, EIA 6032-15, 6.0x3.2x1.5mm, Reflow soldering footprint")
+(module Tantalum_Case-U_EIA-6032-15_Reflow (layer F.Cu) (tedit 57AC77D2)
+  (descr "Tantalum capacitor, Case U, EIA 6032-15, 6.0x3.2x1.5mm, Reflow soldering footprint")
   (tags "capacitor tantalum smd")
   (attr smd)
   (fp_text reference REF** (at 0 -2.6) (layer F.SilkS)

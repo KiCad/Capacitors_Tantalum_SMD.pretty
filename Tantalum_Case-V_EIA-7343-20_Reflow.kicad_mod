@@ -1,5 +1,5 @@
-(module Tantalum_Case-V_EIA-7343-20_Reflow (layer F.Cu) (tedit 57AC756E)
-  (descr "Tantalum calacitor, Case V, EIA 7343-20, 7.3x4.3x2.0mm, Reflow soldering footprint")
+(module Tantalum_Case-V_EIA-7343-20_Reflow (layer F.Cu) (tedit 57AC77D2)
+  (descr "Tantalum capacitor, Case V, EIA 7343-20, 7.3x4.3x2.0mm, Reflow soldering footprint")
   (tags "capacitor tantalum smd")
   (attr smd)
   (fp_text reference REF** (at 0 -3.15) (layer F.SilkS)

@@ -1,5 +1,5 @@
-(module Tantalum_Case-D_EIA-7343-31_Wave (layer F.Cu) (tedit 57AC756E)
-  (descr "Tantalum calacitor, Case D, EIA 7343-31, 7.3x4.3x2.8mm, Wave soldering footprint")
+(module Tantalum_Case-D_EIA-7343-31_Wave (layer F.Cu) (tedit 57AC77D2)
+  (descr "Tantalum capacitor, Case D, EIA 7343-31, 7.3x4.3x2.8mm, Wave soldering footprint")
   (tags "capacitor tantalum smd")
   (attr smd)
   (fp_text reference REF** (at 0 -3.15) (layer F.SilkS)

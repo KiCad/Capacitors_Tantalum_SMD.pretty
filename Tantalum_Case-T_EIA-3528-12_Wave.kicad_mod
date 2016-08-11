@@ -1,5 +1,5 @@
-(module Tantalum_Case-T_EIA-3528-12_Wave (layer F.Cu) (tedit 57AC756E)
-  (descr "Tantalum calacitor, Case T, EIA 3528-12, 3.5x2.8x1.2mm, Wave soldering footprint")
+(module Tantalum_Case-T_EIA-3528-12_Wave (layer F.Cu) (tedit 57AC77D2)
+  (descr "Tantalum capacitor, Case T, EIA 3528-12, 3.5x2.8x1.2mm, Wave soldering footprint")
   (tags "capacitor tantalum smd")
   (attr smd)
   (fp_text reference REF** (at 0 -2.4) (layer F.SilkS)

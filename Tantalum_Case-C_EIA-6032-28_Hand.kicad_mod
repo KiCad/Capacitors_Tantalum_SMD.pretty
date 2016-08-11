@@ -1,5 +1,5 @@
-(module Tantalum_Case-C_EIA-6032-28_Hand (layer F.Cu) (tedit 57AC756E)
-  (descr "Tantalum calacitor, Case C, EIA 6032-28, 6.0x3.2x2.5mm, Hand soldering footprint")
+(module Tantalum_Case-C_EIA-6032-28_Hand (layer F.Cu) (tedit 57AC77D2)
+  (descr "Tantalum capacitor, Case C, EIA 6032-28, 6.0x3.2x2.5mm, Hand soldering footprint")
   (tags "capacitor tantalum smd")
   (attr smd)
   (fp_text reference REF** (at 0 -2.6) (layer F.SilkS)
