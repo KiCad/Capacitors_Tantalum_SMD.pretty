@@ -1,4 +1,4 @@
-(module Tantalum_Case-R_EIA-2012-12_Wave (layer F.Cu) (tedit 57AEC261)
+(module Tantalum_Case-R_EIA-2012-12_Wave (layer F.Cu) (tedit 57AEC321)
   (descr "Tantalum capacitor, Case R, EIA 2012-12, 2.0x1.3x1.2mm, Wave soldering footprint")
   (tags "capacitor tantalum smd")
   (attr smd)
@@ -26,7 +26,7 @@
   (fp_line (start -1.375 0.85) (end -1.375 1.05) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.375 1.05) (end -1.175 1.05) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.175 1.05) (end -1.175 0.85) (layer F.SilkS) (width 0.15))
-  (fp_line (start -2.35 -0.4875) (end -2.35 0.4875) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.4 -0.4875) (end -2.4 0.4875) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -1.275 0) (size 1.75 1.26) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.275 0) (size 1.75 1.26) (layers F.Cu F.Paste F.Mask))
   (model Capacitors_Tantalum_SMD.3dshapes/Tantalum_Case-R_EIA-2012-12.wrl
