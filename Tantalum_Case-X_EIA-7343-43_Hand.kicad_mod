@@ -1,4 +1,4 @@
-(module Tantalum_Case-X_EIA-7343-43_Hand (layer F.Cu) (tedit 57AEC320)
+(module Tantalum_Case-X_EIA-7343-43_Hand (layer F.Cu) (tedit 57B3CA5E)
   (descr "Tantalum capacitor, Case X, EIA 7343-43, 7.3x4.2x4.0mm, Hand soldering footprint")
   (tags "capacitor tantalum smd")
   (attr smd)
@@ -29,6 +29,9 @@
   (fp_line (start -5.9 -1.575) (end -5.9 1.575) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -3.775 0) (size 3.75 2.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.775 0) (size 3.75 2.7) (layers F.Cu F.Paste F.Mask))
+  (fp_text user %R (at 0 -3.85) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (model Capacitors_Tantalum_SMD.3dshapes/Tantalum_Case-X_EIA-7343-43.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
